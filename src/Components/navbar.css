@@ -1,0 +1,49 @@
+.nav
+{
+    display: flex;
+    /* border: 2px solid red; */
+    flex-direction: row;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+
+.tagLogoImg
+{
+    width: 50%;
+}
+
+.tagLogo
+{
+    width: 25%;
+}
+
+.login
+{
+    width: 25%;
+    color: aliceblue;
+}
+
+.arcadeLogo
+{
+    flex-direction: row;
+    justify-content: center;
+}
+
+.arcadeLogoImg
+{
+    width: 120%;
+    height: 130%;
+    /* align-self: center; */
+}
+
+
+
+.loginLogoImg
+{
+    color: white;
+    width: 10%;
+    /* justify-self: center; */
+    margin-left: 80%
+}
+
