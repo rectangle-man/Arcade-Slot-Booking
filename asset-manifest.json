@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arcade-Slot-Booking/static/css/main.daf01448.css",
+    "main.js": "/Arcade-Slot-Booking/static/js/main.400115d7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Arcade-Slot-Booking/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Arcade-Slot-Booking/index.html",
+    "main.daf01448.css.map": "/Arcade-Slot-Booking/static/css/main.daf01448.css.map",
+    "main.400115d7.js.map": "/Arcade-Slot-Booking/static/js/main.400115d7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Arcade-Slot-Booking/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf01448.css",
+    "static/js/main.400115d7.js"
+  ]
+}
